@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/alpha_task/static/js/main.a52fe2e5.js",
+    "main.js": "/alpha_task/static/js/main.50c1d5d7.js",
     "static/media/like-active.png": "/alpha_task/static/media/like-active.49a33fdaac365c00bfa5.png",
     "index.html": "/alpha_task/index.html",
-    "main.a52fe2e5.js.map": "/alpha_task/static/js/main.a52fe2e5.js.map"
+    "main.50c1d5d7.js.map": "/alpha_task/static/js/main.50c1d5d7.js.map"
   },
   "entrypoints": [
-    "static/js/main.a52fe2e5.js"
+    "static/js/main.50c1d5d7.js"
   ]
 }
