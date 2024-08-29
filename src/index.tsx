@@ -4,7 +4,7 @@ import App from './App';
 import { Provider } from 'react-redux'
 import store from './store/store'
 import { createGlobalStyle} from 'styled-components'
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from 'react-router-dom';
 import ErrorPage from './pages/ErrorPage';
 import CardPage from './pages/CardPage';
 
@@ -34,7 +34,7 @@ button {
 }
 `
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App/>,
